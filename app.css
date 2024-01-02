@@ -1,0 +1,26 @@
+body {
+  color: #fff;
+  font-family: Arial;
+  background: #141414;
+}
+h4, p {
+  padding: 0;
+  margin: 0;
+}
+
+.book {
+  border: 1px solid #DDD;
+  overflow: hidden;
+}
+
+.book img {
+  height: 100px;
+}
+
+.image, .info {
+  float: left;
+}
+
+.image {
+  margin-right: 10px;
+}

@@ -1,0 +1,24 @@
+{
+  "cart": [
+    {
+      "image": "https://i.ebayimg.com/images/g/AXUAAOSwXK5kHlhh/s-l1200.webp",
+      "book_name": "Sinekli Bakkal",
+      "author": "Halide Edib Adıvar",
+      "isAvailable": true
+    },
+    {
+      "image": "https://i.dr.com.tr/cache/500x400-0/originals/0000000411500-1.jpg",
+      "book_name": "Fareler ve İnsanlar",
+      "author": "John Steinbeck",
+      "isAvailable": true
+    }
+  ],
+  "saved": [
+    {
+      "image": "https://m.media-amazon.com/images/I/414lZx+r2VL._SY445_SX342_.jpg",
+      "book_name": "Kürk Mantolu Madonna",
+      "author": "Sabahattin Ali",
+      "isAvailable": true
+    }
+  ]
+}
